@@ -48,3 +48,8 @@ app.*.map.json
 **/android/key.properties
 **/*.jks
 **/*.keystore
+
+# Firebase config (DO NOT COMMIT)
+android/app/google-services.json
+lib/firebase_options.dart
+

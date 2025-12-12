@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#7B2FF7"
+  image: assets/icons/campusdrive_icon.png
+  branding: assets/icons/campusdrive_icon.png
+  color_dark: "#121212"
+  image_dark: assets/icons/campusdrive_icon.png
+  branding_dark: assets/icons/campusdrive_icon.png
+
+  android_12:
+    image: assets/icons/campusdrive_icon.png
+    icon_background_color: "#7B2FF7"
+    image_dark: assets/icons/campusdrive_icon.png
+    icon_background_color_dark: "#121212"
+
+  web: false

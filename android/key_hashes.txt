@@ -1,0 +1,11 @@
+CORRECT APP KEYS (Use these for Firebase)
+-----------------------------------------
+Keystore: upload-keystore.jks
+Alias: campusdrive_key
+
+SHA-1:   A9:48:61:AD:6C:95:92:57:9F:B7:2D:BD:07:D3:07:63:8E:39:AE:9D
+SHA-256: C0:E3:BE:7F:40:05:5C:48:04:9A:7D:64:D1:07:6C:34:88:FB:BE:E8:36:9D:42:7D:3D:0E:6C:58:F6:3E:53:3C
+
+NOTE: 
+If you see other SHA-1s in the terminal (like B8:48...), they are for plugins/libraries (e.g., url_launcher_android) and should be IGNORED.
+Only use the keys above for "com.campusdrive.app".

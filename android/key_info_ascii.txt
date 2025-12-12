@@ -1,0 +1,26 @@
+Alias name: campusdrive_key
+Creation date: 29-Nov-2025
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 14c8613fe2fc803d
+Valid from: Sat Nov 29 00:20:47 IST 2025 until: Wed Apr 16 00:20:47 IST 2053
+Certificate fingerprints:
+	 SHA1: 2E:F0:99:7A:67:6E:90:A7:04:BB:13:D6:D6:72:E4:07:A3:AD:44:FD
+	 SHA256: BF:E1:AA:D4:A0:29:D5:8C:99:F7:87:15:48:E2:06:01:DC:20:0B:1F:B6:80:22:A2:06:86:79:0F:31:2D:F7:74
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7F 2D 61 20 17 AC 49 C5   3D 3E 6D B4 78 72 DC 3F  .-a ..I.=>m.xr.?
+0010: 9B 06 4A D9                                        ..J.
+]
+]
+

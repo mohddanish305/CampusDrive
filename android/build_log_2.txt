@@ -1,0 +1,126 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources UP-TO-DATE
+> Task :gradle:classes UP-TO-DATE
+> Task :gradle:jar UP-TO-DATE
+> Task :app:DebugMinSdkCheck
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:compileFlutterBuildDebug
+> Task :app:packJniLibsflutterBuildDebug
+> Task :app_links:preBuild UP-TO-DATE
+> Task :app_links:preDebugBuild UP-TO-DATE
+> Task :app_links:writeDebugAarMetadata UP-TO-DATE
+> Task :file_picker:preBuild UP-TO-DATE
+> Task :file_picker:preDebugBuild UP-TO-DATE
+> Task :file_picker:writeDebugAarMetadata UP-TO-DATE
+> Task :firebase_auth:preBuild UP-TO-DATE
+> Task :firebase_auth:preDebugBuild UP-TO-DATE
+> Task :firebase_auth:writeDebugAarMetadata UP-TO-DATE
+> Task :firebase_core:preBuild UP-TO-DATE
+> Task :firebase_core:preDebugBuild UP-TO-DATE
+> Task :firebase_core:writeDebugAarMetadata UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:preBuild UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:preDebugBuild UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:writeDebugAarMetadata UP-TO-DATE
+> Task :google_sign_in_android:preBuild UP-TO-DATE
+> Task :google_sign_in_android:preDebugBuild UP-TO-DATE
+> Task :google_sign_in_android:writeDebugAarMetadata UP-TO-DATE
+> Task :open_file_android:preBuild UP-TO-DATE
+> Task :open_file_android:preDebugBuild UP-TO-DATE
+> Task :open_file_android:writeDebugAarMetadata UP-TO-DATE
+> Task :path_provider_android:preBuild UP-TO-DATE
+> Task :path_provider_android:preDebugBuild UP-TO-DATE
+> Task :path_provider_android:writeDebugAarMetadata UP-TO-DATE
+> Task :shared_preferences_android:preBuild UP-TO-DATE
+> Task :shared_preferences_android:preDebugBuild UP-TO-DATE
+> Task :shared_preferences_android:writeDebugAarMetadata UP-TO-DATE
+> Task :sqflite_android:preBuild UP-TO-DATE
+> Task :sqflite_android:preDebugBuild UP-TO-DATE
+> Task :sqflite_android:writeDebugAarMetadata UP-TO-DATE
+> Task :url_launcher_android:preBuild UP-TO-DATE
+> Task :url_launcher_android:preDebugBuild UP-TO-DATE
+> Task :url_launcher_android:writeDebugAarMetadata UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:cleanMergeDebugAssets
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app_links:mergeDebugShaders UP-TO-DATE
+> Task :app_links:compileDebugShaders NO-SOURCE
+> Task :app_links:generateDebugAssets UP-TO-DATE
+> Task :app_links:mergeDebugAssets UP-TO-DATE
+> Task :file_picker:mergeDebugShaders UP-TO-DATE
+> Task :file_picker:compileDebugShaders NO-SOURCE
+> Task :file_picker:generateDebugAssets UP-TO-DATE
+> Task :file_picker:mergeDebugAssets UP-TO-DATE
+> Task :firebase_auth:mergeDebugShaders UP-TO-DATE
+> Task :firebase_auth:compileDebugShaders NO-SOURCE
+> Task :firebase_auth:generateDebugAssets UP-TO-DATE
+> Task :firebase_auth:mergeDebugAssets UP-TO-DATE
+> Task :firebase_core:mergeDebugShaders UP-TO-DATE
+> Task :firebase_core:compileDebugShaders NO-SOURCE
+> Task :firebase_core:generateDebugAssets UP-TO-DATE
+> Task :firebase_core:mergeDebugAssets UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:mergeDebugShaders UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:compileDebugShaders NO-SOURCE
+> Task :flutter_plugin_android_lifecycle:generateDebugAssets UP-TO-DATE
+> Task :flutter_plugin_android_lifecycle:mergeDebugAssets UP-TO-DATE
+> Task :google_sign_in_android:mergeDebugShaders UP-TO-DATE
+> Task :google_sign_in_android:compileDebugShaders NO-SOURCE
+> Task :google_sign_in_android:generateDebugAssets UP-TO-DATE
+> Task :google_sign_in_android:mergeDebugAssets UP-TO-DATE
+> Task :open_file_android:mergeDebugShaders UP-TO-DATE
+> Task :open_file_android:compileDebugShaders NO-SOURCE
+> Task :open_file_android:generateDebugAssets UP-TO-DATE
+> Task :open_file_android:mergeDebugAssets UP-TO-DATE
+> Task :path_provider_android:mergeDebugShaders UP-TO-DATE
+> Task :path_provider_android:compileDebugShaders NO-SOURCE
+> Task :path_provider_android:generateDebugAssets UP-TO-DATE
+> Task :path_provider_android:mergeDebugAssets UP-TO-DATE
+> Task :shared_preferences_android:mergeDebugShaders UP-TO-DATE
+> Task :shared_preferences_android:compileDebugShaders NO-SOURCE
+> Task :shared_preferences_android:generateDebugAssets UP-TO-DATE
+> Task :shared_preferences_android:mergeDebugAssets UP-TO-DATE
+> Task :sqflite_android:mergeDebugShaders UP-TO-DATE
+> Task :sqflite_android:compileDebugShaders NO-SOURCE
+> Task :sqflite_android:generateDebugAssets UP-TO-DATE
+> Task :sqflite_android:mergeDebugAssets UP-TO-DATE
+> Task :url_launcher_android:mergeDebugShaders UP-TO-DATE
+> Task :url_launcher_android:compileDebugShaders NO-SOURCE
+> Task :url_launcher_android:generateDebugAssets UP-TO-DATE
+> Task :url_launcher_android:mergeDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets
+> Task :app:copyFlutterAssetsDebug
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:processDebugGoogleServices FAILED
+
+[Incubating] Problems report is available at: file:///D:/study%20drive/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:processDebugGoogleServices'.
+> File google-services.json is missing. 
+  The Google Services Plugin cannot function without it. 
+  Searched locations: D:\study drive\android\app\src\debug\google-services.json, D:\study drive\android\app\src\debug\google-services.json, D:\study drive\android\app\src\google-services.json, D:\study drive\android\app\src\debug\google-services.json, D:\study drive\android\app\src\Debug\google-services.json, D:\study drive\android\app\google-services.json
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 48s
+47 actionable tasks: 7 executed, 40 up-to-date
